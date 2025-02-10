@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @sfWonderland
-- 👀 I’m interested in commuter tech.
+- 👀 I’m interested in computer tech.
 - 🌱 I’m currently learning math and c language.
 - 💞️ I’m looking to collaborate on the projects in the future when it's enough for me to create something wonderful.
 - 📫 How to reach me :sfwonderland76@gmail.com
-- 😄 Pronouns: ...err...what's this?
+- 😄 Pronouns: None
 - ⚡ Fun fact: ...citywalk.
 
 <!---
